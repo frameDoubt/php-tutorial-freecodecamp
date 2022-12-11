@@ -8,6 +8,10 @@
 </head>
 <body>
     <?php
+        $phrase = "To be or not to be";
+        $age = 35;
+        $gpa = 3.7;
+        $isMale = true;
         
     ?>
 </body>
