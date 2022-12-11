@@ -9,6 +9,8 @@
 <body>
     <?php
         echo("Hello World");
+        echo("<hr>");
+        echo("php -S localhost:4000");
     ?>
 </body>
 </html>
