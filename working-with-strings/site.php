@@ -16,8 +16,9 @@
         echo strlen($phrase);
         echo "<br>";
         echo $phrase[0];
+        echo $phrase[0] = "B";
         echo "<br>";
-        echo str_replace("Giraffe", "Panda", $phrase);
+        echo str_replace("Biraffe", "Panda", $phrase);
         echo "<br>";
         echo substr($phrase, 0, 7);
     ?>
