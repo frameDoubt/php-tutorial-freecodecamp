@@ -8,7 +8,18 @@
 </head>
 <body>
     <?php
-        
+        $phrase = "Giraffe Academy";
+        echo strtolower($phrase);
+        echo "<br>";
+        echo strtoupper($phrase);
+        echo "<br>";
+        echo strlen($phrase);
+        echo "<br>";
+        echo $phrase[0];
+        echo "<br>";
+        echo str_replace("Giraffe", "Panda", $phrase);
+        echo "<br>";
+        echo substr($phrase, 0, 7);
     ?>
 </body>
 </html>
