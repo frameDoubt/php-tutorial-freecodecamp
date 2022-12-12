@@ -9,3 +9,4 @@ Learning the basics of PHP.
 3. data-types
 4. working-with-strings
 5. working-with-numbers
+6. getting-user-input
