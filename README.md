@@ -3,3 +3,9 @@
 [PHP Tutorial](https://www.youtube.com/watch?v=OK_JCtrrv-c)
 
 Learning the basics of PHP.
+
+1. hello-world
+2. variables
+3. data-types
+4. working-with-strings
+5. working-with-numbers
