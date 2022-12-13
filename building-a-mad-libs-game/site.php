@@ -7,6 +7,21 @@
     <title>Building A Mad Libs Game</title>
 </head>
 <body>
-    <?php ?>
+    <form action="site.php" method="get">
+        Color: <input type="text" name="color"> <br>
+        Plural Noun: <input type="text" name="pluralNoun"> <br>
+        Celebrity: <input type="text" name="celebrity"> <br>
+        <input type="submit">
+    </form>
+    <br><br>
+    <?php
+        $user_color = $_GET["color"];
+        $user_plural_noun = $_GET["pluralNoun"];
+        $user_celebrity = $_GET["celebrity"];
+
+        echo "Roses are $user_color <br>";
+        echo "$user_plural_noun are blue <br>";
+        echo "I love $user_celebrity <br>";
+    ?>
 </body>
 </html>
