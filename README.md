@@ -14,3 +14,4 @@ Learning the basics of PHP.
 8. building-a-mad-libs-game
 9. url-parameters
 10. post-vs-get
+11. arrays
