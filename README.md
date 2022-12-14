@@ -10,3 +10,6 @@ Learning the basics of PHP.
 4. working-with-strings
 5. working-with-numbers
 6. getting-user-input
+7. building-a-basic-calculator
+8. building-a-mad-libs-game
+9. url-parameters
