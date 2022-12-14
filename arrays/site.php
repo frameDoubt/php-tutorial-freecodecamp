@@ -7,6 +7,13 @@
     <title>Arrays</title>
 </head>
 <body>
-    <?php ?>
+    <?php
+        $friends = array("Kevin", "Karen", "Oscar", "Jim");
+        echo "$friends <br>";
+        $friends[1] = 300;
+        $friends[4] = "Pam";
+        echo "$friends[4] <br>";
+        echo count($friends);
+    ?>
 </body>
 </html>
