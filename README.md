@@ -13,3 +13,4 @@ Learning the basics of PHP.
 7. building-a-basic-calculator
 8. building-a-mad-libs-game
 9. url-parameters
+10. post-vs-get
