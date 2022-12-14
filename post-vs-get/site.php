@@ -7,6 +7,14 @@
     <title>POST vs GET</title>
 </head>
 <body>
-    <?php ?>
+    <form action="" method="post">
+        Password: <input type="password" name="post-password"> <br>
+        <input type="submit">
+    </form>
+    <br>
+    <br>
+    <?php
+        echo $_POST["post-password"];
+    ?>
 </body>
 </html>
