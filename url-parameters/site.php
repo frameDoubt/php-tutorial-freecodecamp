@@ -7,6 +7,13 @@
     <title>URL Parameters</title>
 </head>
 <body>
-    <?php ?>
+    <form action="site.php" method="get">
+        Name: <input type="text" name="name">
+        <input type="submit">
+    </form>
+    <br>
+    <?php
+        echo $_GET["name"];
+    ?>
 </body>
 </html>
