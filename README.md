@@ -16,3 +16,4 @@ Learning the basics of PHP.
 10. post-vs-get
 11. arrays
 12. using-checkboxes
+13. associative-arrays
