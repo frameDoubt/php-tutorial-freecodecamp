@@ -15,3 +15,4 @@ Learning the basics of PHP.
 9. url-parameters
 10. post-vs-get
 11. arrays
+12. using-checkboxes
