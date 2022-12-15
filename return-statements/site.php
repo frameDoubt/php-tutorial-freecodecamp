@@ -8,7 +8,10 @@
 </head>
 <body>
     <?php
-        
+        function cube($num){
+            return $num ** 3;
+        }
+        echo cube(3);
     ?>
 </body>
 </html>
