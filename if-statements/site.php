@@ -8,7 +8,17 @@
 </head>
 <body>
     <?php
-    
+        $isMale = false;
+        $isTall = true;
+        if ($isMale && $isTall){
+            echo "You are male, and tall";
+        } elseif ($isMale && !$isTall) {
+            echo "You are male, but not tall";
+        } elseif (!$isMale && $isTall) {
+            echo "You are not male, but you are tall";
+        } else {
+            echo "You are not male, and not tall";
+        }
     ?>
 </body>
 </html>
