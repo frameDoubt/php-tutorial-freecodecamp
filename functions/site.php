@@ -8,7 +8,12 @@
 </head>
 <body>
     <?php
-        
+        function sayHi($name, $age){
+            echo "Hello $name, you are $age<br>";
+        }
+        sayHi("Mike", 23);
+        sayHi("Tom", 37);
+        sayHi("Dave", 18);
     ?>
 </body>
 </html>
