@@ -20,4 +20,4 @@ Learning the basics of PHP.
 14. functions
 15. return-statements
 16. if-statements
-17. if-statements-cont
+17. if-statements-continued
