@@ -24,3 +24,4 @@ Learning the basics of PHP.
 18. building-a-better-calculator
 19. switch-statements
 20. while-loops
+21. for-loops
