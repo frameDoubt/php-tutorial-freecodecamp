@@ -8,7 +8,15 @@
 </head>
 <body>
     <?php
-    
+        // $index = 1;
+        // while($index <= 5) {
+        //     echo "$index <br>";
+        //     $index++;
+        // }
+        $luckyNumbers = array(4, 20, 43, 67, 21);
+        for($i = 0; $i < count($luckyNumbers); $i++) {
+            echo "$luckyNumbers[$i] <br>";
+        }
     ?>
 </body>
 </html>
