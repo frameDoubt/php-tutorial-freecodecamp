@@ -8,7 +8,16 @@
 </head>
 <body>
     <?php
-        
+        $index = 1;
+        while($index <= 5) {
+            echo "$index <br>";
+            $index++;
+        }
+        $newIndex = 6;
+        do {
+            echo "$newIndex <br>";
+            $newIndex++;
+        } while ($newIndex <= 5);
     ?>
 </body>
 </html>
