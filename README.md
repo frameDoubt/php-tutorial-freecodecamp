@@ -27,3 +27,4 @@ Learning the basics of PHP.
 21. for-loops
 22. comments
 23. including-html
+24. including-php
