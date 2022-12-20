@@ -32,3 +32,4 @@ Learning the basics of PHP.
 26. constructors
 27. object-functions
 28. getters-and-setters
+29. inheritance
