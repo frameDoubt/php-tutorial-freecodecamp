@@ -4,7 +4,7 @@
 
 Learning the basics of PHP.
 
-1. hello-world
+1. [hello-world](/hello-world/)
 2. variables
 3. data-types
 4. working-with-strings
