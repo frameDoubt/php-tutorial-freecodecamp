@@ -7,6 +7,16 @@
     <title>Including PHP</title>
 </head>
 <body>
-    <?php ?>
+    <?php
+        $title = "My First Post";
+        $author = "Mike";
+        $wordCount = 400;
+        include "article-header.php";
+        include "useful-tools.php";
+        echo "<br>";
+        echo $feetInMile;
+        echo "<br>";
+        sayHi("mike");
+    ?>
 </body>
 </html>
