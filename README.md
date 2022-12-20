@@ -28,3 +28,4 @@ Learning the basics of PHP.
 22. comments
 23. including-html
 24. including-php
+25. classes-and-objects
