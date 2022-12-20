@@ -25,3 +25,4 @@ Learning the basics of PHP.
 19. switch-statements
 20. while-loops
 21. for-loops
+22. comments
