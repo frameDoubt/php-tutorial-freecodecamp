@@ -1,2 +1,3 @@
 # Twenty-Eighth Lesson - Getters & Setters
 ---
+Getters and setters are special functions inside PHP classes, that control the access to its attributes/properties. Visibility modifier, like `public` or `private`, define whether or not an attibute is accessible by different pieces of code within a class or globally. `public` attributes are accessible globally, `var` as well. `private` attributes are only accessible through functions, getters and setters within that class.
