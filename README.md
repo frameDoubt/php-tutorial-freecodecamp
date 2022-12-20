@@ -30,3 +30,4 @@ Learning the basics of PHP.
 24. including-php
 25. classes-and-objects
 26. constructors
+27. object-functions
